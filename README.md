@@ -17,13 +17,15 @@ Syeda Nusaiba Sharifeen	2132576642
 - Applied *advanced image augmentation techniques* for better generalization  
 - Implemented ‘class balancing’ using WeightedRandomSampler  
 - Evaluated model with ‘confusion matrix, ‘classification report, and ‘cross-validation’
+- Worked on the website
 
 Chadne.	2132112464
 
 - Documented the methodology, training results, and augmentation strategies  
 - Designed the *block diagram* representing the model's architecture  
 - Created inference scripts for real-world testing of trained models  
-- Compiled *result tables*, training logs, and final test accuracy summary  
+- Compiled *result tables*, training logs, and final test accuracy summary
+- worked on the website 
 
 
 
